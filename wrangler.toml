@@ -14,5 +14,5 @@ rules = [
 #watch_dir = "src"
 
 
-[vars]
-MATRIX_SERVER_ADDR = "matrix.franchb.com:8443"
+#[vars]
+#MATRIX_SERVER_ADDR = "matrix.franchb.com:8443"
