@@ -28,7 +28,7 @@ router
         base_url: 'https://matrix.yycfruit.xyz:1234/' // 从环境变量读取实际服务器地址
       },
       "im.vector.riot.jitsi": {
-        "preferredDomain": "your.jitsi.example.org"
+        "preferredDomain": "jitsi.yycfruit.xyz"
       }
       // 可按需添加 m.identity_server 等其他信息
     }
